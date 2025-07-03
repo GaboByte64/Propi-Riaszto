@@ -4,7 +4,7 @@ Mérlegelést követően a felhasználó eldöntheti, hogy továbbra is szeretn�
 Az érintett weboldalak teljes listája a megtalálható a content.js fájlban, mely saját gépre lementve szabadon szerkeszthető.<br>
 
 # Használat
-1. Megbízható helyen hozz létre egy új mappát PropiRiasztó néven. (Windows - Dokumentumok mappa tökéletes erre a célra.)
+1. Megbízható helyen hozz létre egy új mappát PropiRiasztó néven.<br>(Windows - Dokumentumok mappa tökéletes erre a célra.)
 2. Töltsd le a content.js és manifest.json fájlokat az így létrehozott mappába.
 3. [OPCIONÁLIS] Amennyiben szeretnéd bővíteni az érintett weboldalak listáját, a minta alapján módosítsd a content.js fájlt, majd ments egyet.
 4. Indítsd el a Google Chrome-ot.
