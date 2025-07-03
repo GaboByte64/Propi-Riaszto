@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "PropiRiasztó",
+  "version": "1.0",
+  "description": "Figyelmezteti a felhasználókat bizonyos webhelyek tartalmával kapcsolatban.",
+  "permissions": ["tabs", "scripting"],
+  "host_permissions": ["<all_urls>"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ]
+}
