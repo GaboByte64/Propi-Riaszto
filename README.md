@@ -6,7 +6,7 @@ Az érintett weboldalak teljes listája a megtalálható a content.js fájlban, 
 # Használat
 1. Megbízható helyen hozz létre egy új mappát PropiRiasztó néven.<br>(Windows - Dokumentumok mappa tökéletes erre a célra.)
 2. Töltsd le a content.js és manifest.json fájlokat az így létrehozott mappába.
-3. [OPCIONÁLIS] Amennyiben szeretnéd bővíteni az érintett weboldalak listáját, a minta alapján módosítsd a content.js fájlt, majd ments egyet.
+3. [OPCIONÁLIS]<br>Amennyiben szeretnéd bővíteni az érintett weboldalak listáját, a minta alapján módosítsd a content.js fájlt, majd ments egyet.
 4. Indítsd el a Google Chrome-ot.
 5. A címsorba írd be a következőt, majd nyomj egy ENTER-t: chrome://extensions/
 6. Az oldal jobb felső sarkában találsz egy kapcsolót "Fejlesztői mód" néven. Kapcsold be.
