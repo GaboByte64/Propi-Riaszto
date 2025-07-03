@@ -1,4 +1,4 @@
-# Propi-Riaszto
+# Propi-Riaszto (Google Chrome bővítmény)
 A Propi-Riaszto figyelmezteti a felhasználókat bizonyos webhelyek tartalmával kapcsolatban.<br>
 Mérlegelést követően a felhasználó eldöntheti, hogy továbbra is szeretné meglátogatni a weboldalt vagy meggondolja magát.<br>
 Az érintett weboldalak teljes listája a megtalálható a content.js fájlban, mely saját gépre lementve szabadon szerkeszthető.<br>
